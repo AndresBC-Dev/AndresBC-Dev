@@ -21,7 +21,7 @@ public class WhoAmI {
 
     public void setAmbitions() {
         Desires2024 desires = new Desires2024();
-        desires.becomeABigSoftwareDeveloper();
+        desires.BeHappy();
         desires.finishMyProjects();
     }
 ```
