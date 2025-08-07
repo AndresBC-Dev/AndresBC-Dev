@@ -1,28 +1,30 @@
 ![Github Banner](https://github.com/AndresBC-Dev/images/blob/main/ANDRESBANNER.jpg)
 
 ```java
-Import andres.Desires2024;
+package profile;
 
-public class WhoAmI {
-    String name = "Andres Buitrago";
-    String location = "Barranquilla-Colombia";
-    String currentEdu = "Software Development Technician";
-    String currentlyLearning = "Golang";
-    String city;
+import java.util.List;
 
-     String[] hobbies = {"Movies", "Sports", "Series", "Travels"};
+public final class AndresBuitrago {
+    private final String name = "Andres Buitrago";
+    private final String role = "Software Architect & Team Lead";
+    private final String location = "Barranquilla, Colombia";
+    private final List<String> focus = List.of("Software Architecture", "Clean Code", "Distributed Systems", "Cloud");
+    private final List<String> leadership = List.of("Mentorship", "Cross-disciplinary Projects", "Code Quality Advocacy");
 
-    public void getCity(String city) {
-        String[] parts = location.split("-");
-        city = parts[0].trim();
-
-        System.out.println("I love this beautiful city called: " + city);
+    public void present() {
+        System.out.printf("👋 %s — %s (%s)%n", name, role, location);
+        System.out.println("🔍 Focus:");
+        focus.forEach(f -> System.out.printf("  • %s%n", f));
+        System.out.println("🤝 Leadership:");
+        leadership.forEach(l -> System.out.printf("  • %s%n", l));
     }
 
-    public void setAmbitions() {
-        Desires2024 desires = new Desires2024();
-        desires.BeHappy();
-        desires.finishMyProjects();
+    // Ejemplo de una "philosophy method" que muestra cómo tomas decisiones de arquitectura
+    public String architecturePrinciples() {
+        return "Design for observability, fail-fast, prefer simplicity over cleverness, automate quality checks.";
     }
+}
+
 ```
 
