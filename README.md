@@ -20,7 +20,6 @@ public final class AndresBuitrago {
         leadership.forEach(l -> System.out.printf("  • %s%n", l));
     }
 
-    // Ejemplo de una "philosophy method" que muestra cómo tomas decisiones de arquitectura
     public String architecturePrinciples() {
         return "Design for observability, fail-fast, prefer simplicity over cleverness, automate quality checks.";
     }
