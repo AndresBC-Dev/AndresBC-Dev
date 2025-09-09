@@ -40,6 +40,6 @@ O si prefieres algo más visual:
 
 ### 📫 Conectemos
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/andresbc-dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/andres-buitrago-sl)
 - 🧠 Apasionado por la arquitectura limpia, la escalabilidad y el liderazgo técnico.
 - 🛠 Siempre buscando nuevas formas de mejorar la calidad del software y empoderar equipos.
