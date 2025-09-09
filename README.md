@@ -24,6 +24,22 @@ public final class AndresBuitrago {
         return "Design for observability, fail-fast, prefer simplicity over cleverness, automate quality checks.";
     }
 }
-
 ```
 
+---
+
+### 🌐 Portafolio
+
+Explora mis proyectos, principios de arquitectura y enfoque profesional en mi portafolio en línea:  
+🔗 [andresbc.vercel.app](https://andresbc.vercel.app)
+
+O si prefieres algo más visual:  
+[![Visita mi portafolio](https://img.shields.io/badge/Portafolio-AndresBC-blue?style=for-the-badge)](https://andresbc.vercel.app)
+
+---
+
+### 📫 Conectemos
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/andresbc-dev)
+- 🧠 Apasionado por la arquitectura limpia, la escalabilidad y el liderazgo técnico.
+- 🛠 Siempre buscando nuevas formas de mejorar la calidad del software y empoderar equipos.
