@@ -28,13 +28,11 @@ public final class AndresBuitrago {
 
 ---
 
-### 🌐 Portafolio
-
 Explora mis proyectos, principios de arquitectura y enfoque profesional en mi portafolio en línea:  
-🔗 [andresbc.vercel.app](https://andresbc.vercel.app)
 
-O si prefieres algo más visual:  
 [![Visita mi portafolio](https://img.shields.io/badge/Portafolio-AndresBC-blue?style=for-the-badge)](https://andresbc.vercel.app)
+
+🔗 [andresbc.vercel.app](https://andresbc.vercel.app)
 
 ---
 
