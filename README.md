@@ -1,43 +1,29 @@
 ![Github Banner](https://github.com/AndresBC-Dev/images/blob/main/ANDRESBANNER.jpg)
 
-```java
-package profile;
+# Hola, soy Andrés Buitrago 👋
+**Backend Engineer | Software Developer & Cloud Architecture**
 
-import java.util.List;
+Me especializo en diseñar sistemas escalables, de alta concurrencia y mantenibilidad. Transformo reglas de negocio complejas en arquitecturas limpias, utilizando contenedores y patrones de diseño robustos.
 
-public final class AndresBuitrago {
-    private final String name = "Andres Buitrago";
-    private final String role = "Software Architect & Team Lead";
-    private final String location = "Barranquilla, Colombia";
-    private final List<String> focus = List.of("Software Architecture", "Clean Code", "Distributed Systems", "Cloud");
-    private final List<String> leadership = List.of("Mentorship", "Cross-disciplinary Projects", "Code Quality Advocacy");
+### 🚀 En qué estoy trabajando ahora
+* 👨‍💻 Construyendo **Nourmesa**: Un sistema de gestión de servicios gastronómicos (POS/KDS) de alto rendimiento.
+* ⚙️ Arquitectura de Nourmesa: Desarrollado con **Kotlin Multiplatform (KMP)** y backend en la nube, diseñado para sincronización de estados en tiempo real mediante WebSockets y arquitectura centralizada.
 
-    public void present() {
-        System.out.printf("👋 %s — %s (%s)%n", name, role, location);
-        System.out.println("🔍 Focus:");
-        focus.forEach(f -> System.out.printf("  • %s%n", f));
-        System.out.println("🤝 Leadership:");
-        leadership.forEach(l -> System.out.printf("  • %s%n", l));
-    }
+### 🛠️ Tech Stack & Herramientas
+* **Backend:** Java, Go, Kotlin.
+* **Arquitectura:** Clean Architecture, Microservicios, Sistemas Distribuidos, APIs RESTful.
+* **Infraestructura & Datos:** Docker, AWS, PostgreSQL, MySQL.
 
-    public String architecturePrinciples() {
-        return "Design for observability, fail-fast, prefer simplicity over cleverness, automate quality checks.";
-    }
-}
-```
+### 🧠 Filosofía de Ingeniería
+> *"Design for observability, fail-fast, prefer simplicity over cleverness, and automate quality checks."*
 
 ---
 
 Explora mis proyectos, principios de arquitectura y enfoque profesional en mi portafolio en línea:  
 
 [![Visita mi portafolio](https://img.shields.io/badge/Portafolio-AndresBC-blue?style=for-the-badge)](https://andresbc.vercel.app)
-
 🔗 [andresbc.vercel.app](https://andresbc.vercel.app)
 
----
-
 ### 📫 Conectemos
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/andres-buitrago-sl)
-- 🧠 Apasionado por la arquitectura limpia, la escalabilidad y el liderazgo técnico.
-- 🛠 Siempre buscando nuevas formas de mejorar la calidad del software y empoderar equipos.
+- 💼 [LinkedIn](https://www.linkedin.com/in/andres-buitragodev)
+- ✉️ andresjavier87@hotmail.com
